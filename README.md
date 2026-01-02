@@ -19,15 +19,17 @@
 ---
 
 <div align="center">
+
 <a href="https://github.com/yisy0/ai">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=50&section=header&text=📚%20학습일지&fontSize=25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=60&section=header&text=📚%20학습일지&fontSize=30&fontColor=ffffff&fontAlignY=50" />
 </a>
 <a href="https://github.com/yisy0/1stProject">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A90E2&height=50&section=header&text=🎯%201st%20PROJECT&fontSize=25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A90E2&height=60&section=header&text=🎯%201ST%20PROJECT&fontSize=30&fontColor=ffffff&fontAlignY=50" />
 </a>
 <a href="https://github.com/yisy0/1stProject">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=27AE60&height=50&section=header&text=🚀%202nd%20PROJECT&fontSize=25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27AE60&height=60&section=header&text=🚀%202ND%20PROJECT&fontSize=30&fontColor=ffffff&fontAlignY=50" />
 </a>
+
 </div>
 
 --
