@@ -6,7 +6,9 @@
 
 <div align="center">
 <a href="https://github.com/yisy0/ai"><img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white"></a>
+&nbsp; &nbsp; &nbsp;
 <a href="https://github.com/yisy0/1stProject"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white"></a>
+&nbsp; &nbsp; &nbsp;
 <a href="https://github.com/yisy0/1stProject"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
