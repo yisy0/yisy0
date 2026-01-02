@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Soyoung%20Yi's%20Profile!&fontSize=50)
 
-# 🔍이 소 영 🔎
+#
 - 👋안녕하세요. AI 개발자 양성과정, Web 개발자 양성과정 강사 이소영입니다**
 - 전산학학사, 소프트웨어공학 석사, 디지털경영박사
 - ADSP, 직업능력개발훈련교사, 정보처리기사, 전자계산기 조직응용기사.
 - 한국외국어대, 중앙대, 동국대, 인덕대 강의
 - 📢현재 MBC 아카데미에서 근무하고 있습니다.
-- 🔥컨택을 원하시면 010-0000-0000으로 연락주세요.
 
 # 🔗 LINK
 - KDT 기업맞춤형 AI-X 교육과정 (824시간) : Python 기반의 Full-Stack 개발 및 **AI 모델링 및 LLM 학습일지**와 **프로젝트 협업** 공간
