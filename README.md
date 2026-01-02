@@ -18,12 +18,12 @@
 ---
 
 # 🔗 학습일지 & 프로젝트
-- KDT 기업맞춤형 AI-X 교육과정 (824시간)
-Python 기반의 Full-Stack 개발 및 **AI 모델링 및 LLM 학습일지**와 **프로젝트 협업** 공간
+> **KDT 기업맞춤형 AI-X 교육과정 (824시간)**  
+> Python 기반 Full-Stack 개발 및 AI 모델링, LLM 학습일지와 프로젝트 협업 공간
 
-[![공부일지](https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yisy0/ai)
-[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT[프로젝트명]-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yisy0/1stProject)
-[![2차프로젝트](https://img.shields.io/badge/2nd_Project[미정]-163E18?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yisy0/1stProject)
+[![공부일지](https://img.shields.io/badge/📚_학습일지-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yisy0/ai)
+[![1차프로젝트](https://img.shields.io/badge/🎯_1st_PROJECT-E74C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yisy0/1stProject)
+[![2차프로젝트](https://img.shields.io/badge/🚀_2nd_PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yisy0/1stProject)
 
 
 # 🛠️ 기술 스택 (Tech Stack)
