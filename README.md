@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Soyoung%20Yi's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 ## 🔗 학습일지 & 프로젝트 LINK
-> **KDT 기업맞춤형 AI-X 교육과정 (824시간)**  
+> 💡 **KDT 기업맞춤형 AI-X 교육과정 (824시간)**  
 > Python 기반 Full-Stack 개발 및 AI 모델링, LLM 학습일지와 프로젝트 협업 공간
 
 <div align="center">
