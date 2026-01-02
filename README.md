@@ -5,15 +5,6 @@
 > Python 기반 Full-Stack 개발 및 AI 모델링, LLM 학습일지와 프로젝트 협업 공간
 
 <div align="center">
-<a href="https://github.com/yisy0/ai"><img src="https://img.shields.io/badge/📚%20학습일지%20click-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="200"></a>
-<a href="https://github.com/yisy0/1stProject"><img src="https://img.shields.io/badge/🎯%201st%20PROJECT%20click-4A90E2?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/yisy0/1stProject"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT%20click-27AE60?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
----
-
-<div align="center">
-
 <a href="https://github.com/yisy0/ai">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=60&section=header&text=📚%20학습%20일지%20%20click&fontSize=30&fontColor=ffffff&fontAlignY=50" />
 </a>
@@ -23,8 +14,11 @@
 <a href="https://github.com/yisy0/1stProject">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=27AE60&height=60&section=header&text=🚀%202nd%20PROJECT%20%20click&fontSize=30&fontColor=ffffff&fontAlignY=50" />
 </a>
-
 </div>
+
+
+--
+
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
