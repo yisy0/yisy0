@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/1st%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="1차프로젝트">
   </a>
   <a href="https://github.com/yisy0/1stProject">
-    <img src="https://img.shields.io/badge/🚀%202nd%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" alt="2차프로젝트">
+    <img src="https://img.shields.io/badge/2nd%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" alt="2차프로젝트">
   </a>
 </div>
 
