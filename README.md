@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/yisy0/ai">
-    <img src="https://img.shields.io/badge/📚_학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="190" height="60" alt="학습일지">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/📚_학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="185" height="60" alt="학습일지">
+  </a>
   <a href="https://github.com/yisy0/1stProject">
     <img src="https://img.shields.io/badge/🎯_1st_PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250" height="60" alt="1차프로젝트">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
