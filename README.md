@@ -19,7 +19,7 @@
 <div align="center">
 
 <a href="https://github.com/yisy0/ai">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=60&section=header&text=📚%20학습일지&fontSize=30&fontColor=ffffff&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=60&section=header&text=📚%20학습%20일지%20%20click&fontSize=30&fontColor=ffffff&fontAlignY=50" />
 </a>
 <a href="https://github.com/yisy0/1stProject">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4A90E2&height=60&section=header&text=🎯%201ST%20PROJECT&fontSize=30&fontColor=ffffff&fontAlignY=50" />
