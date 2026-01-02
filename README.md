@@ -5,11 +5,11 @@
 > Python 기반 Full-Stack 개발 및 AI 모델링, LLM 학습일지와 프로젝트 협업 공간
 
 <div align="center">
-<a href="https://github.com/yisy0/ai"><img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="140"></a>
+<a href="https://github.com/yisy0/ai"><img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="240"></a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://github.com/yisy0/1stProject"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" weight="200"></a>
+<a href="https://github.com/yisy0/1stProject"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" weight="300"></a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://github.com/yisy0/1stProject"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" weight="200"></a>
+<a href="https://github.com/yisy0/1stProject"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" weight="300"></a>
 </div>
 
 ---
