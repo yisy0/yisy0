@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://github.com/yisy0/ai">
-    <img src="https://img.shields.io/badge/📚_학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="300" alt="공부일지">
+    <img src="https://img.shields.io/badge/📚_학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="300" height="60" alt="공부일지">
   </a>
   <a href="https://github.com/yisy0/1stProject">
-    <img src="https://img.shields.io/badge/🎯_1st_PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="300" alt="1차프로젝트">
+    <img src="https://img.shields.io/badge/🎯_1st_PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="300" height="60" alt="1차프로젝트">
   </a>
   <a href="https://github.com/yisy0/1stProject">
-    <img src="https://img.shields.io/badge/🚀_2nd_PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="300" alt="2차프로젝트">
+    <img src="https://img.shields.io/badge/🚀_2nd_PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="300" height="60" alt="2차프로젝트">
   </a>
 </div>
 
