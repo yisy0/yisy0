@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Soyoung%20Yi's%20Profile!&fontSize=50)
 
-# 🔍 이 소 영 🔎
-
 - 👋안녕하세요. AI 개발자 양성과정, Web 개발자 양성과정 강사 이소영입니다
 - 🔥컨택을 원하시면 010-0000-0000으로 연락주세요.
 
