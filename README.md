@@ -7,13 +7,13 @@
 <div align="center">
 
 <a href="https://github.com/yisy0/ai">
-  <img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180">
+  <img src="https://img.shields.io/badge/학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="150">
 </a>
 <a href="https://github.com/yisy0/1stProject">
-  <img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="180">
+  <img src="https://img.shields.io/badge/1st%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="200">
 </a>
 <a href="https://github.com/yisy0/1stProject">
-  <img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="180">
+  <img src="https://img.shields.io/badge/2nd%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="200">
 </a>
 
 </div>
