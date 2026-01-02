@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Soyoung%20Yi's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 <div align="center">
+
 ## 🔍 이소영 (Soyoung Yi)
 
 ### 👋 AI 개발자 양성과정 | Web 개발자 양성과정 강사
