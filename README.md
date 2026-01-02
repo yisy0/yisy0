@@ -20,13 +20,15 @@
 
 <div align="center">
 <a href="https://github.com/yisy0/ai">
-  <img src="https://img.shields.io/badge/📚_학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" style="transform: scale(2);">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=50&section=header&text=📚%20학습일지&fontSize=25&fontColor=ffffff" />
 </a>
+<br/>
 <a href="https://github.com/yisy0/1stProject">
-  <img src="https://img.shields.io/badge/🎯_1st_PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" style="transform: scale(2);">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A90E2&height=50&section=header&text=🎯%201st%20PROJECT&fontSize=25&fontColor=ffffff" />
 </a>
+<br/>
 <a href="https://github.com/yisy0/1stProject">
-  <img src="https://img.shields.io/badge/🚀_2nd_PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" style="transform: scale(2);">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=27AE60&height=50&section=header&text=🚀%202nd%20PROJECT&fontSize=25&fontColor=ffffff" />
 </a>
 </div>
 
