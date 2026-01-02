@@ -1,18 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Soyoung%20Yi's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
-## 🔗 학습일지 & 프로젝트
+## 🔗 학습일지 & 프로젝트 LINK
 > **KDT 기업맞춤형 AI-X 교육과정 (824시간)**  
 > Python 기반 Full-Stack 개발 및 AI 모델링, LLM 학습일지와 프로젝트 협업 공간
 
 <div align="center">
   <a href="https://github.com/yisy0/ai">
-    <img src="https://img.shields.io/badge/📚_학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180" alt="학습일지">
+    <img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180" alt="학습일지">
   </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/yisy0/1stProject">
-    <img src="https://img.shields.io/badge/🎯_1st_PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"  alt="1차프로젝트">
+    <img src="https://img.shields.io/badge/🎯%201st_PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"  alt="1차프로젝트">
   </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/yisy0/1stProject">
-    <img src="https://img.shields.io/badge/🚀_2nd_PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250" alt="2차프로젝트">
+    <img src="https://img.shields.io/badge/🚀%202nd_PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250" alt="2차프로젝트">
   </a>
 </div>
 
