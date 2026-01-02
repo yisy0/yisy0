@@ -5,20 +5,7 @@
 > Python 기반 Full-Stack 개발 및 AI 모델링, LLM 학습일지와 프로젝트 협업 공간
 
 <div align="center">
-  <a href="https://github.com/yisy0/ai">
-    <img src="https://img.shields.io/badge/📚%20학습%20일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" alt="학습일지">
-  </a>
-  <a href="https://github.com/yisy0/1stProject">
-    <img src="https://img.shields.io/badge/🎯%201st%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="1차프로젝트">
-  </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/yisy0/1stProject">
-    <img src="https://img.shields.io/badge/🚀%202nd%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" alt="2차프로젝트">
-  </a>
-</div>
 
----
-
-<div align="center">
 
 <a href="https://github.com/yisy0/ai">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=60&section=header&text=📚%20학습일지&fontSize=30&fontColor=ffffff&fontAlignY=50" />
